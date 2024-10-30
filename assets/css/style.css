@@ -1,0 +1,30 @@
+#syciBo {
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 0px 0px 3px 0px darkgray;
+    font-family: monospace;
+    padding: 2rem;
+}
+
+#syciBo h1 {
+    color: #232e3e;
+    font-size: 2rem;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+#syciBo p,
+#syciBo code,
+#syciBo .copied {
+    font-size: 1.2rem;
+}
+
+#syciBo code {
+    cursor: pointer;
+    color: #232e3e;
+}
+
+#syciBo .copied {
+    color: darkgreen;
+}
